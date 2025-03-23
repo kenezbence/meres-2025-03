@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|c:\\users\\bence\\onedrive\\dokumentumok\\github\\meres-2025-03\\realestate\\realestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|c:\\users\\bence\\onedrive\\dokumentumok\\github\\meres-2025-03\\realestate\\realestate\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|c:\\users\\bence\\onedrive\\dokumentumok\\github\\meres-2025-03\\realestate\\realestate\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|c:\\users\\bence\\onedrive\\dokumentumok\\github\\meres-2025-03\\realestate\\realestate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CCA2CC-0BF4-4BBC-9A88-3D2170282684}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Ad.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Ad.cs",
+              "ToolTip": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Ad.cs",
+              "RelativeToolTip": "RealEstate\\Ad.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwDAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:52:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Seller.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Seller.cs",
+              "ToolTip": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Seller.cs",
+              "RelativeToolTip": "RealEstate\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:51:13.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Category.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Category.cs",
+              "ToolTip": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Category.cs",
+              "RelativeToolTip": "RealEstate\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:50:19.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Program.cs",
+              "ToolTip": "C:\\Users\\bence\\OneDrive\\Dokumentumok\\GitHub\\meres-2025-03\\RealEstate\\RealEstate\\Program.cs",
+              "RelativeToolTip": "RealEstate\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:48:32.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
